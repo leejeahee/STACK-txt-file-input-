@@ -1,1 +1,1 @@
-# STACK-txt-file-input-
+# In the text file, the number of data to be stored in the stack and integer data values are written in order. After reading the text file and pushing the data to the stack in order, the status of the stack is output. At the command prompt, I need to enter an integer k, reverse the order of k elements from the top of the stack, and write a program that outputs the final state of the stack. If the value of k received is greater than the number of data stored in the stack, output "Invalid input.". I must use stack and queue computation ONLY.
